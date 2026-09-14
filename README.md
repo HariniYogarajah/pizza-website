@@ -12,4 +12,5 @@ A simple pizza website created using HTML.
 - HTML5
 
 ## Screenshot
-(Add your website screenshot here)
+<img width="944" height="499" alt="image" src="https://github.com/user-attachments/assets/bca95fb3-3960-40da-ad3f-662d04a08903" />
+
